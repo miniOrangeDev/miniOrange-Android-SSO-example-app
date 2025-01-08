@@ -13,6 +13,7 @@ This demo app helps customers understand how simple it is to integrate miniOrang
 
 ##  1. Sign Up and Log In -
 [Sign Up](https://www.miniorange.com/businessfreetrial) to the miniorange website and [login](https://login.xecurify.com/moas/login) using your credentials to view the below dashboard.
+
 Make sure you've set up the [organization branding](https://www.miniorange.com/iam/content-library/admin-docs/branding-and-customization).
 ![Step 1](images/step1.png)
 
@@ -66,7 +67,7 @@ Tap and hold on app icon to visit the app info section and add the supported lin
 ## 3. Paste the Client Credentials (ID and Secret)  
 1. Open the application and click on `Continue to Setup`.  
 2. Select `Yes` and paste the **Client ID** and **Client Secret** that were copied earlier.  
-3. Add the *Organization Branding**.
+3. Add the **Organization Branding**.
 4. Click on `Save and Continue`.  
 <img src="images/enter_clientId_secret.png" alt="Add Client Id Secret" height="400px">
 
