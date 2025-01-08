@@ -58,7 +58,7 @@ Now copy Client Id and Client Secret and store it somewhere safe for further use
 # Setting Up Starter Application in Android
 
 ## 1. Download the Application  
-[Click here](https://www.dropbox.com/scl/fi/maxm9iuskwjd605yvyys9/miniOrangeSSO.apk?rlkey=hdyqw1qu4yky4k524yr8ajbld&e=1&st=7ezp252k&dl=1) to directly download the test application for miniOrange Android SSO.  
+[Click here](https://raw.githubusercontent.com/miniOrangeDev/miniOrange-Android-SSO-example-app/refs/heads/main/miniOrangeSSO.apk) to directly download the test application for miniOrange Android SSO.  
 
 ## 2. Add Supported Links to the App (for versions greater than Android 12 API level 31)
 Tap and hold on app icon to visit the app info section and add the supported link as `https://www.miniorangesso.com`.  
