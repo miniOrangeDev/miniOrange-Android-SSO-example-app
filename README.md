@@ -3,8 +3,8 @@
 This Android application demonstrates how miniOrange SSO works with an Android app using OAuth authentication. It shows how users can easily log in using their miniOrange credentials.
 
 The process of integration is broken down into two simple steps:
-1. [Setting Up OAuth Application at miniOrange](https://github.com/dev-shubham-mali/tempAndroid/blob/main/README.md#setting-up-oauth-application-at-miniorange)
-2. [Setting Up Starter Application in Android](https://github.com/dev-shubham-mali/tempAndroid/blob/main/README.md#setting-up-starter-application-in-android)
+1. [Setting Up OAuth Application at miniOrange](https://github.com/miniOrangeDev/miniOrange-Android-SSO-example-app?tab=readme-ov-file#setting-up-oauth-application-at-miniorange)
+2. [Setting Up Starter Application in Android](https://github.com/miniOrangeDev/miniOrange-Android-SSO-example-app?tab=readme-ov-file#setting-up-starter-application-in-android)
 
    
 This demo app helps customers understand how simple it is to integrate miniOrange SSO into their own Android apps. With the miniOrange connector, the integration process is straightforward and works just like in the demo, making it easy to add secure Single Sign-On (SSO) to any Android application.
