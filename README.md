@@ -12,8 +12,7 @@ This demo app helps customers understand how simple it is to integrate miniOrang
 # Setting Up OAuth Application at miniOrange
 
 ##  1. Sign Up and Log In -
-[Sign Up](https://www.miniorange.com/businessfreetrial) to the miniorange website and [login](https://login.xecurify.com/moas/login) using your credentials to view the below dashboard.
-
+[Sign Up](https://www.miniorange.com/businessfreetrial) to the miniorange website and [login](https://login.xecurify.com/moas/login) using your credentials to view the below dashboard.<br>
 Make sure you've set up the [organization branding](https://www.miniorange.com/iam/content-library/admin-docs/branding-and-customization).
 ![Step 1](images/step1.png)
 
